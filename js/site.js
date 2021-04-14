@@ -13,7 +13,6 @@ function reverseString() {
 
         return
     }
-
     // Now begin the reversal by stripping the string of all special characters
     // and storing it in a new variable cleanedWord
     let cleanedWord = userWord.replace(/[^A-Z0-9]/ig, "");
