@@ -152,7 +152,6 @@ code {
 }
 
 .intro {
-    background: #7e8aa0;
     min-height: 250px;
 }
 
@@ -185,8 +184,9 @@ code {
 }
 
 #palindrificator {
-    background-color: darkgoldenrod;
-    border-color: #000;
+    background-color: #17a2b8;
+    color: #dbdfe7;
+    border-color: #dbdfe7;
 }
 
 .col-lg-4 .col-md-6 {
