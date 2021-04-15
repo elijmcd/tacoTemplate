@@ -10,8 +10,7 @@ function reverseString() {
             icon: 'error',
             confirmButtonText: 'Try Again'
         })
-
-        return
+        return;
     }
     // Now begin the reversal by stripping the string of all special characters
     // and storing it in a new variable cleanedWord
