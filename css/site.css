@@ -60,10 +60,6 @@ body>.container {
     padding-left: 15px;
 }
 
-/* .footer .container span {
-    justify-content: center;
-} */
-
 code {
     font-size: 80%;
 }
@@ -177,7 +173,7 @@ code {
 #palindrificator {
     background-color: #17a2b8;
     color: #dbdfe7;
-    border-color: #dbdfe7;
+    border-color: #17a2b8;
 }
 
 .col-lg-4 .col-md-6 {
