@@ -38,7 +38,7 @@ function reverseString() {
             title: 'Palindrome!',
             text: 'Palindrification Achieved',
             icon: 'success',
-            confirmButtonText: '!YAY!'
+            confirmButtonText: '🥳 YAY 🥳'
         })
         confetti.start(1000);
     } else {
@@ -46,9 +46,9 @@ function reverseString() {
         palOut.innerText = "No, improper palindrification!";
         Swal.fire({
             title: 'Improper Palindrification',
-            text: 'Too bad. Try again, pal...',
+            text: 'Too bad, try again...',
             icon: 'error',
-            confirmButtonText: 'Poop'
+            confirmButtonText: '💩 Poop 💩'
         })
     }
 }
